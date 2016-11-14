@@ -42,14 +42,14 @@ end
 
 ```
 
-11.
+4.
 ```ruby
 (1..3).each do |i|
   puts i * i
 end
 ```
 
-4.
+5.
 ```ruby
 total = 0
 
@@ -60,7 +60,7 @@ end
 puts total
 ```
 
-5.
+6.
 ```ruby
 i = 0
 
@@ -70,7 +70,7 @@ while i < 3
 end
 ```
 
-6.
+7.
 ```ruby
 i = 0
 
@@ -82,7 +82,7 @@ end
 puts "bye"
 ```
 
-7.
+8.
 ```ruby
 fruits = ["banana", "apple", "kiwi"]
 fruits.each do |fruit|
@@ -90,7 +90,7 @@ fruits.each do |fruit|
 end
 ```
 
-8.
+9.
 ```ruby
 total = 0
 values = [4, 6, 2, 8, 11]
@@ -102,7 +102,7 @@ end
 puts total
 ```
 
-9.
+10.
 ```ruby
 values = [8, 5, 3, 10, 14, 2]
 values.each do |value|
